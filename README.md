@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=connect!&textBg=false&animation=fadeIn&fontColor=008000,00000"/>
+</p>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/QGfhvbfZW8sAAAAC/kalilinux.gif"/>
 </p>
