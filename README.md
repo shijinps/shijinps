@@ -5,7 +5,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="Kali linux" width="45" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_of_Metasploit.svg" alt="Metasploit" width="45" height="45"/>
+<img src="https://simpleicons.org/icons/metasploit.svg" alt="Metasploit" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/6bafbd88447203739c5fcc3ad4a31a5c6cd6ab5d/src/scalable/apps/wireshark.svg" alt="Wireshark" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
